@@ -1,0 +1,14 @@
+make enemy class
+  type, health, speed, knockback if hit/hit player, xp to drop
+make weapons class
+  type, damage, cooldowns, equations for different paths (parabola, linear, ellipsis, etc.)
+add weapons member to player class
+  bool to check which they have to activate maybe in dict?
+UI HP Display + health attribute of player/enemy class
+  either upload new font or use same
+  flash if hurt maybe, health should display constantly in top
+UI weapons/passives choice
+  on level up, meaning gotta add xp to player
+  random list of 3/4 choices to click for upgrades
+make menu page
+search how to make the log/save files (sql, pickle, idk)
